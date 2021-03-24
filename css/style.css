@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: radial-gradient(red,green,blue);
+}
+
+body{
+    background: radial-gradient(red,green,blue);
+}
